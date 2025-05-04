@@ -1,2 +1,2 @@
 # Batooni
-Batooni ia an chat App for people who like to talk.
+Batooni is a chat App for people who like to talk.
